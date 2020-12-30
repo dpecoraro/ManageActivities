@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "zCB8neKhypSIGbMulAnbU2gpiFAIMmv5SrmU8EvAtiaIokysLKg+rGV0q93/9ofoRk4STbCYjqnf9r1HU+5OoA==",
+  "dgSpecHash": "p6VqlU2cTE0wP/DWlRAEw+SM/QBmLTM9t63DdcQcvVI6B/GEMlhxSBPfGR9Qdr7VgP+np41wVAn4uAGqucF8ow==",
   "success": true,
   "projectFilePath": "C:\\Users\\demetrius.pecoraro\\Documents\\Documentos\\UdemyCourses\\Reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\demetrius.pecoraro\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\demetrius.pecoraro\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\demetrius.pecoraro\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\demetrius.pecoraro\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\demetrius.pecoraro\\.nuget\\packages\\microsoft.data.sqlite.core\\3.1.10\\microsoft.data.sqlite.core.3.1.10.nupkg.sha512",
