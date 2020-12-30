@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "4Lm9yQ32zDt9dNu+QcJzXVS0IpSJcc27YU+3FioycJPSc2A/O5hb6xGTIQEHSMqCA9kioirCVdRioHAlGmB55g==",
+  "dgSpecHash": "DrRpMiC3MBkm1VVf8kYtq/K5ab8OJmLmhF5qRvjReWT6VtcetEtx0kmLtnQ5dMjrW2FxA05vCUGJNEGdvkMrUQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\demetrius.pecoraro\\Documents\\Documentos\\UdemyCourses\\Reactivities\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\demetrius.pecoraro\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\demetrius.pecoraro\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\demetrius.pecoraro\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\demetrius.pecoraro\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\demetrius.pecoraro\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

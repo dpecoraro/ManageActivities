@@ -3,5 +3,9 @@ obj
 .vscode
 .DS_Store
 appsettings.json
+<<<<<<< HEAD
 *.db
 node_modules
+=======
+*.db
+>>>>>>> dev

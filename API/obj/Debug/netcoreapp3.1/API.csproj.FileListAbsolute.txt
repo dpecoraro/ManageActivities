@@ -65,3 +65,5 @@ C:\Users\demetrius.pecoraro\Documents\Documentos\UdemyCourses\Reactivities\API\o
 C:\Users\demetrius.pecoraro\Documents\Documentos\UdemyCourses\Reactivities\API\obj\Debug\netcoreapp3.1\API.pdb
 C:\Users\demetrius.pecoraro\Documents\Documentos\UdemyCourses\Reactivities\API\obj\Debug\netcoreapp3.1\API.genruntimeconfig.cache
 C:\Users\demetrius.pecoraro\Documents\Documentos\UdemyCourses\Reactivities\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\demetrius.pecoraro\Documents\Documentos\UdemyCourses\Reactivities\API\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\demetrius.pecoraro\Documents\Documentos\UdemyCourses\Reactivities\API\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
