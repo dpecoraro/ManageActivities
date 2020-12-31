@@ -15,6 +15,7 @@ interface IProps {
   activity: IActivity;
   createActivity: (activity: IActivity) => void;
   editActivity: (activity: IActivity) => void;
+  submitting: boolean;
 }
 
 const ActivityForm: React.FC<IProps> = ({
@@ -22,6 +23,7 @@ const ActivityForm: React.FC<IProps> = ({
   activity: initialFormState,
   createActivity,
   editActivity,
+  submitting
 }) => {
   const initializeForm = () => {
     if (initialFormState) {
@@ -107,6 +109,7 @@ const ActivityForm: React.FC<IProps> = ({
           positive
           type="submit"
           content="Submit"
+          loading={submitting}
         />
         <Button
           onClick={() => setEditMode(false)}
