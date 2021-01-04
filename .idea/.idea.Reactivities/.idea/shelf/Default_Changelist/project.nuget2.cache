@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MgtSCy3Sqh8i3LiF3kskHwKvzNOGW5RBXHVJiAmmt95JNDVmZ5BmXLclu+ZkK7L9No5malegqxCGQbHKQmNq+A==",
+  "success": true,
+  "projectFilePath": "/home/demetrius/RiderProjects/ManageActivities/Domain/Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/demetrius/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/demetrius/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

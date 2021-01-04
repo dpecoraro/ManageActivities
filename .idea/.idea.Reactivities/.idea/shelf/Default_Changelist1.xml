@@ -1,0 +1,64 @@
+<changelist name="Default_Changelist1" date="1609785886126" recycled="false">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/.idea.Reactivities/.idea/shelf/Default_Changelist1/shelved.patch" />
+  <option name="DESCRIPTION" value="Default Changelist" />
+  <binary>
+    <option name="BEFORE_PATH" value="API/obj/Debug/netcoreapp3.1/API.assets.cache" />
+    <option name="AFTER_PATH" value="API/obj/Debug/netcoreapp3.1/API.assets.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Reactivities/.idea/shelf/Default_Changelist1/API.assets.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="API/obj/Debug/netcoreapp3.1/API.csprojAssemblyReference.cache" />
+    <option name="AFTER_PATH" value="API/obj/Debug/netcoreapp3.1/API.csprojAssemblyReference.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Reactivities/.idea/shelf/Default_Changelist1/API.csprojAssemblyReference.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Application/obj/Debug/netstandard2.0/Application.assets.cache" />
+    <option name="AFTER_PATH" value="Application/obj/Debug/netstandard2.0/Application.assets.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Reactivities/.idea/shelf/Default_Changelist1/Application.assets.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Application/obj/Debug/netstandard2.0/Application.csprojAssemblyReference.cache" />
+    <option name="AFTER_PATH" value="Application/obj/Debug/netstandard2.0/Application.csprojAssemblyReference.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Reactivities/.idea/shelf/Default_Changelist1/Application.csprojAssemblyReference.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Domain/obj/Debug/netstandard2.0/Domain.assets.cache" />
+    <option name="AFTER_PATH" value="Domain/obj/Debug/netstandard2.0/Domain.assets.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Reactivities/.idea/shelf/Default_Changelist1/Domain.assets.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Domain/obj/Debug/netstandard2.0/Domain.csprojAssemblyReference.cache" />
+    <option name="AFTER_PATH" value="Domain/obj/Debug/netstandard2.0/Domain.csprojAssemblyReference.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Reactivities/.idea/shelf/Default_Changelist1/Domain.csprojAssemblyReference.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Persistence/obj/Debug/netstandard2.0/Persistence.assets.cache" />
+    <option name="AFTER_PATH" value="Persistence/obj/Debug/netstandard2.0/Persistence.assets.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Reactivities/.idea/shelf/Default_Changelist1/Persistence.assets.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Persistence/obj/Debug/netstandard2.0/Persistence.csprojAssemblyReference.cache" />
+    <option name="AFTER_PATH" value="Persistence/obj/Debug/netstandard2.0/Persistence.csprojAssemblyReference.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Reactivities/.idea/shelf/Default_Changelist1/Persistence.csprojAssemblyReference.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="API/obj/project.nuget.cache" />
+    <option name="AFTER_PATH" value="API/obj/project.nuget.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Reactivities/.idea/shelf/Default_Changelist1/project.nuget.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Application/obj/project.nuget.cache" />
+    <option name="AFTER_PATH" value="Application/obj/project.nuget.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Reactivities/.idea/shelf/Default_Changelist1/project.nuget1.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Domain/obj/project.nuget.cache" />
+    <option name="AFTER_PATH" value="Domain/obj/project.nuget.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Reactivities/.idea/shelf/Default_Changelist1/project.nuget2.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Persistence/obj/project.nuget.cache" />
+    <option name="AFTER_PATH" value="Persistence/obj/project.nuget.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Reactivities/.idea/shelf/Default_Changelist1/project.nuget3.cache" />
+  </binary>
+</changelist>
